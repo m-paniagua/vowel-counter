@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\co_sci_840\paniaguamquiz2\paniaguamquiz2\source.cpp(17): warning C4101: 'upperCaseVowels': unreferenced local variable
+g:\co_sci_840\paniaguamquiz2\paniaguamquiz2\source.cpp(17): warning C4101: 'lowerCaseVowels': unreferenced local variable
+  paniaguamQuiz2.vcxproj -> G:\co_sci_840\paniaguamQuiz2\Debug\paniaguamQuiz2.exe
+  paniaguamQuiz2.vcxproj -> G:\co_sci_840\paniaguamQuiz2\Debug\paniaguamQuiz2.pdb (Partial PDB)
